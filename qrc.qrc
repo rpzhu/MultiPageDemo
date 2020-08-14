@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/qss">
+        <file alias="pagewidget">qss/pagewidget.qss</file>
+    </qresource>
+</RCC>
